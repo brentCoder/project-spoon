@@ -1,0 +1,12 @@
+html body {
+    min-width: 150px;
+    margin: 0px;
+    padding: 0px;
+    color: rgb(42, 39, 39);
+    font-family: arial;
+    background: #F9F4F4;
+}
+
+* {
+    box-sizing: border-box;
+}
